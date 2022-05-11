@@ -3,6 +3,8 @@ const sayHello = () => {
     console.log('Hello!');
 };
 
+const title = 'I am Hello Module';
+
 const sayGoodnight = () => {
     console.log('Good night!');
 };
