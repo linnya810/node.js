@@ -1,1 +1,3 @@
-console.log('Hello World!123')
+const hello = require('./hello');
+
+hello.sayHello();
